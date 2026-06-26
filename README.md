@@ -1,6 +1,8 @@
 # Walker Environmental Research Website
 
-Source for the Walker Environmental Research Quarto website.
+Source for the Quarto website of Walker Environmental Research.
+
+https://walkerenvres.com
 
 ## Setup
 
