@@ -1,0 +1,62 @@
+---
+title: "About Me"
+subtitle: Environmental Data Scientist & Engineer
+page-layout: full
+sidebar: false
+image: assets/images/profile.jpg
+image-alt: "Headshot of Jeff Walker, a middle-aged smiling white male"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: round
+  links:
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      aria-label: "Bluesky"
+      href: https://bsky.app/profile/walkerenvres.bsky.social
+    - icon: linkedin
+      text: "LinkedIn"
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/jeffrey-d-walker/
+    - icon: github
+      text: "GitHub"
+      aria-label: GitHub
+      href: https://github.com/walkerjeffd
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-1923-6550
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=xOGFHHQAAAAJ&hl=en
+---
+
+:::{#hero-heading}
+
+Jeff Walker is an environmental data scientist and engineer focused on making it easier to manage, share, and understand environmental data.
+
+Combining a background in environmental science and engineering with advanced data science skills, Jeff builds innovative tools that bring environmental data to life.
+
+Through his experience cleaning, organizing, and analyzing environmental data, he has developed a deep understanding of the challenges and opportunities associated with managing and making environmental data more accessible.
+
+In his free time, Jeff enjoys exploring the Maine coast by foot, bike, boat, and drone with his partner, Elizabeth, and their two boys.
+
+## {{< fa laptop-code >}} Technical Expertise
+
+**Data Science:** Software development for scientific analysis and modeling (R, tidyverse, Python), R package development, reproducible research environments (RMarkdown, Quarto, Jupyter), source code version control (git), machine learning and AI modeling, geospatial data analysis and processing, large-scale database management and cloud computing platforms, and automated data processing pipelines.
+
+**Full-stack Web Development:** Database design and implementation (PostgreSQL), cloud infrastructure (AWS, GCP, Azure), modern front-end web application development (JavaScript, Vue.js), advanced data visualization libraries for scientific applications (D3, Leaflet), geospatial platforms (PostGIS, ESRI ArcGIS), RESTful API development and server-side architecture (Express, Django), continuous integration and deployment (CI/CD) pipelines, application containerization (Docker), and serverless infrastructure.
+
+**Environmental & Water Resources Engineering:** Hydrologic and water quality modeling across multiple scales from local watersheds to regional systems, watershed management and climate change impact assessment, development and calibration of both mechanistic process-based models and statistical models, stream ecology and thermal habitat modeling, and integration of field monitoring data with predictive modeling frameworks.
+
+## {{< fa graduation-cap >}} Education
+
+**Ph.D., Civil and Environmental Engineering**  
+Tufts University | Medford, MA | 2014  
+Dissertation: Web Applications for Interactive Environmental Modeling
+
+**M.Eng., Civil and Environmental Engineering**  
+MIT | Cambridge, MA | 2007  
+Environmental and Water Resources Engineering
+
+**B.S., Science of Earth Systems**  
+Cornell University | Ithaca, NY | 2006  
+Summa Cum Laude with Distinction in Research
+
+:::

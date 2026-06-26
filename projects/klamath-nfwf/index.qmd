@@ -1,0 +1,21 @@
+---
+title: "Upper Klamath Mass Balance Website"
+description: "Website for exploring water and nutrient budgets of Upper Klamath Lake"
+date: 2025-06-12
+categories: [Hydrology & Water Quality, Model, Upper Klamath Lake]
+image: featured.png
+featured: true
+---
+
+::: {.project-meta}
+**Client:** US Fish and Wildlife Service  
+**Period:** 2024-2025
+
+[{{< fa door-open >}} Website](https://uklmassbalance.org)
+:::
+
+![Website Screenshot](featured.png)
+
+A website was developed to provide an interactive interface for exploring the water and nutrient mass balance dataset for Upper Klamath Lake (UKL) using the methodology developed by Walker and Kann (2022). The website allows users to visualize the hydrology and water quality of UKL, including inflows, outflows, storage, and net sediment exchange, as well as seasonal and annual trends in these dynamics.
+
+The project was funded by the [National Fish and Wildlife Foundation](https://www.nfwf.org/) and [Klamath Tribes](https://klamathtribes.org/).

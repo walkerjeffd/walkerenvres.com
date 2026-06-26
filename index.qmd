@@ -1,0 +1,61 @@
+---
+pagetitle: "Walker Environmental Research"
+page-layout: full
+toc: false
+sidebar: false
+listing:
+  - id: highlighted-projects
+    contents: projects
+    type: grid
+    sort: "date desc"
+    fields: [image, title, description]
+    image-height: 180px
+    include:
+      featured: true
+---
+
+::: {.hero}
+::: {.hero-logo}
+<img src="assets/images/logo.png" alt="Logo for Walker Environmental Research showing waves with dots representing data points"/>
+:::
+
+<h1 class="hero-title">Walker Environmental Research</h1>
+
+[Environmental Data Science & Engineering]{.hero-subtitle}
+
+::: {.hero-tagline}
+Improving how we manage, share, and understand environmental data.
+:::
+
+::: {.hero-actions}
+[View Projects](projects.qmd){.btn .btn-hero-primary}
+[Get in Touch](contact.qmd){.btn .btn-hero-outline}
+:::
+
+::: {.hero-social}
+[{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/walkerenvres.bsky.social){aria-label="Bluesky"}
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/in/jeffrey-d-walker/){aria-label="LinkedIn"}
+[{{< fa brands github >}} GitHub](https://github.com/walkerjeffd){aria-label="GitHub"}
+[{{< ai orcid >}} ORCID](https://orcid.org/0000-0003-1923-6550){aria-label="ORCID"}
+[{{< ai google-scholar >}} Scholar](https://scholar.google.com/citations?user=xOGFHHQAAAAJ&hl=en){aria-label="Google Scholar"}
+:::
+:::
+
+<h2 class="section-title">Highlighted Projects</h2>
+
+::: {.section-lede}
+Databases, models, and interactive data visualization tools built for federal, state, and tribal agencies, universities, and non-profits.
+:::
+
+:::{#highlighted-projects}
+:::
+
+[View all projects →](projects.qmd){.view-all}
+
+::: {.cta-band}
+<h2>Need help with your environmental data?</h2>
+
+I'm always open to new projects and collaborations — from data pipelines and databases to models and interactive visualizations.
+
+[Get in Touch](contact.qmd){.btn}
+:::

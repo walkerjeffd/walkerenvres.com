@@ -1,0 +1,20 @@
+---
+title: "MassBays Ecohealth Tracking Tool"
+description: "An interactive data visualization tool for exploring habitat and water quality data along Massachusetts coastal embayments."
+date: 2022-09-30
+categories: [Data Science]
+image: featured.png
+---
+
+::: {.project-meta}
+**Client:** MassBays  
+**Period:** 2021-2022
+
+[{{< fa door-open >}} Website](http://massbaysecohealth.org/)
+:::
+
+![ETT Screenshot](screenshot.png)
+
+The [Ecohealth Tracking Tool](http://massbaysecohealth.org/) is a gateway for the public, scientists, and policy makers to access information about coastal habitats, the water quality conditions that sustain healthy habitats, and the many benefits these habitats provide. The data was developed as a companion to the MassBays [State of Bays report](https://www.mass.gov/service-details/state-of-the-bays).
+
+This project was built by [Hodge Water Resources](http://hodgewaterresources.com/) in collaboration with myself and [Comprehensive Environmental Inc](https://ceiengineers.com/). For this project, I compiled and organized water quality datasets obtained from the USEPA Water Quality Portal, and provided senior technical oversight of the web application development.

@@ -1,0 +1,30 @@
+---
+title: "Contact"
+sidebar: false
+toc: false
+---
+
+```{=html}
+<form name="contact-submission" method="post" action="https://formspree.io/f/mwkazvjq" accept-charset="utf-8" class="contact-card">
+  <fieldset id="contact-inputs" style="border: none; padding: 0; margin: 0;">
+    <p class="contact-intro">
+      Need help with your environmental data? Get in touch! I'm always open to new projects and collaborations.
+    </p>
+    <div>
+      <label for="full-name">Full Name</label>
+      <input type="text" name="name" id="full-name" class="form-control" placeholder="First and Last" required>
+    </div>
+    <div>
+      <label for="email-address">Email address</label>
+      <input type="email" name="_replyto" id="email-address" class="form-control" placeholder="your@email.here" required>
+    </div>
+    <div>
+      <label for="message">Message</label>
+      <textarea rows="6" name="message" id="message" class="form-control" placeholder="Please describe your project or inquiry..." required style="resize: vertical;"></textarea>
+    </div>
+    <input type="hidden" name="_subject" id="email-subject" value="WalkerEnvRes Contact Submission" />
+  </fieldset>
+  <input type="submit" value="Send Message" class="btn-submit">
+  <small class="form-footnote">Powered by <a href="https://formspree.io" target="_blank">Formspree</a></small>
+</form>
+```

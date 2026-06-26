@@ -1,0 +1,273 @@
+---
+title: "Resume / CV"
+toc: true
+toc-title: "Sections"
+sidebar: false
+---
+
+<!-- ```{=html}
+<div class="cv-download">
+  <a href="assets/jeff-walker-resume.pdf" class="btn" download>
+    Download PDF
+  </a>
+</div>
+``` -->
+
+## Summary
+
+Jeffrey D. Walker, PhD is an environmental data scientist, water resources engineer, and full-stack web developer specializing in web-based databases, models, and data visualization tools in addition to hydrologic and water quality data collection, analysis, and modeling.
+
+## Technical Skills
+
+**Data Science**: Software development for scientific analysis and modeling (R, tidyverse, Python), R package development, reproducible research environments (RMarkdown, Quarto, Jupyter), source code version control (git), machine learning and AI modeling, geospatial data analysis and processing, large-scale database management and cloud computing platforms, and automated data processing pipelines.
+
+**Full-stack Web Development**: Database design and implementation (PostgreSQL), cloud infrastructure (AWS, GCP, Azure), modern frontend web application development (JavaScript, Vue.js), advanced data visualization libraries for scientific applications (D3, Leaflet), geospatial platforms (PostGIS , ESRI ArcGIS), RESTful API development and server-side architecture (Express, Django), continuous integration and deployment (CI/CD) pipelines, application containerization (Docker), and serverless infrastructure.
+
+**Water Resources Engineering**: Hydrologic and water quality modeling across multiple scales from local watersheds to regional systems, watershed management and climate change impact assessment, development and calibration of both mechanistic process-based models and statistical models, stream ecology and thermal habitat modeling, and integration of field monitoring data with predictive modeling frameworks.
+
+## Education
+
+```{=html}
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">Tufts University, School of Engineering</span><span class="cv-entry-date">Medford, MA</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Doctor of Philosophy, Environmental and Water Resources Engineering</span><span class="cv-entry-date">2010 – 2014</span></div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">Massachusetts Institute of Technology</span><span class="cv-entry-date">Cambridge, MA</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Master of Engineering, Environmental and Water Resources Engineering</span><span class="cv-entry-date">2006 – 2007</span></div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">Cornell University, College of Agriculture and Life Sciences</span><span class="cv-entry-date">Ithaca, NY</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Bachelor of Science, Science of Earth Systems</span><span class="cv-entry-date">2001 – 2006</span></div>
+</div>
+```
+
+## Professional Experience
+
+```{=html}
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">Walker Environmental Research, LLC</span><span class="cv-entry-date">Brunswick, ME</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Environmental Data Scientist, Water Resources Engineer, Full-stack Developer</span><span class="cv-entry-date">2010 – present</span></div>
+  <p>Environmental data science and engineering specializing in the development of web-based databases, models, and data visualization tools as well as hydrologic and water quality data collection, analysis, modeling, and visualization. Clients include state, tribal and federal government agencies, universities, private firms, and non-profit organizations.</p>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">Federico &amp; Associates, Inc</span><span class="cv-entry-date">West Palm Beach, FL</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Water Resources Engineer and Web Developer</span><span class="cv-entry-date">2016 – present</span></div>
+  <p>Water quality modeling and data analysis to support industry compliance with environmental regulations and permits, design and operation of water quality treatment systems, and development of automated water quality compliance tracking systems.</p>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">CDM Smith</span><span class="cv-entry-date">Cambridge, MA</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Water Resources Engineer</span><span class="cv-entry-date">2007 – 2010</span></div>
+  <p>Water resources engineering focusing on water quality and water supply modeling, water resources systems analysis, and watershed planning and management.</p>
+</div>
+```
+
+## Academic Experience
+
+```{=html}
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">Dept. of Environmental Conservation, UMass Amherst</span><span class="cv-entry-date">Amherst, MA</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Post-doctoral Researcher</span><span class="cv-entry-date">2015 – 2016</span></div>
+  <p>Development of the Spatial Hydro-ecological Decision System (SHEDS), a collection of web applications, interactive data visualizations, and database systems designed to improve environmental decision making.</p>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-title">HydroSystems Research Group, UMass Amherst</span><span class="cv-entry-date">Amherst, MA</span></div>
+  <div class="cv-entry-head"><span class="cv-entry-sub">Post-doctoral Researcher</span><span class="cv-entry-date">2014 – 2015</span></div>
+  <p>Web application development to assess climate change vulnerability of water resources systems.</p>
+</div>
+```
+
+## Web-Based Projects
+
+See the [Projects](projects.qmd) page for detailed descriptions.
+
+```{=html}
+<ul class="cv-link-list">
+  <li><a href="https://passiveacoustics.fisheries.noaa.gov/">NOAA Fisheries Passive Acoustics</a></li>
+  <li><a href="https://passiveacoustics.fisheries.noaa.gov/pacm">NOAA Passive Acoustic Cetaceans Map</a></li>
+  <li><a href="https://usgs.gov/apps/troutcast">USGS TroutCast</a></li>
+  <li><a href="https://www.usgs.gov/apps/ecosheds/">USGS EcoSHEDS</a></li>
+  <li><a href="https://www.usgs.gov/apps/ecosheds/fpe/">USGS Flow Photo Explorer</a></li>
+  <li><a href="https://www.usgs.gov/apps/ecosheds/tame/">USGS Tagged Animal Movement Explorer</a></li>
+  <li><a href="https://www.usgs.gov/apps/ecosheds/lmg-restore/">USGS LMG RESTORE Data Viz Tool</a></li>
+  <li><a href="http://ice.ecosheds.org">USGS Interactive Catchment Explorer (ICE)</a></li>
+  <li><a href="http://db.ecosheds.org">EcoSHEDS Northeast Stream Temperature Database</a></li>
+  <li><a href="https://aktemp.uaa.alaska.edu">Alaska Water Temperature Database and Data Viz Tool</a></li>
+  <li><a href="https://apps.walkerenvres.com/mastath">MA Stream Temp. and Thermal Habitat Explorer</a></li>
+  <li><a href="https://uklmassbalance.org/">UKL Mass Balance</a></li>
+  <li><a href="http://data.prepestuaries.org/data-explorer/">Piscataqua Watershed Data Explorer</a></li>
+  <li><a href="https://www.mysticherring.org">Mystic River Herring Video Count</a></li>
+  <li><a href="https://mysticriver.org/boatingadvisory">Mystic River Daily Boating Advisory</a></li>
+</ul>
+```
+
+## Reports
+
+::: {.publication-list}
+**Walker, J.D.** (2025). The Flow Photo Explorer: Low-cost Environmental Monitoring using Timelapse Imagery and a Deep Learning Model. Year 2 Final Report, USEPA Regional-ORD Applied Research Program (ROAR) Project #2554. Prepared for US Environmental Protection Agency Office of Research and Development. July 25, 2025. [https://doi.org/10.5281/zenodo.20885892](https://doi.org/10.5281/zenodo.20885892)
+
+**Walker, J.D.** (2025). Low-cost Streamflow Monitoring using Timelapse Imagery and Machine Learning Models. Year 1 Final Report, USEPA Regional-ORD Applied Research Program (ROAR) Project #2554. Prepared for US Environmental Protection Agency Office of Research and Development. April 3, 2025. [https://doi.org/10.5281/zenodo.15133342](https://doi.org/10.5281/zenodo.15133342)
+
+**Walker, J.D.** (2023). A Regional Stream Temperature Model for Assessing Climate Change Impacts on Thermal Habitat in Massachusetts. Technical report prepared for Massachusetts Division of Fisheries and Wildlife (MassWildlife). July 13, 2023. [https://doi.org/10.5281/zenodo.8145195](https://doi.org/10.5281/zenodo.8145195)
+
+**Walker, J.D.** and J. Kann (2022). Spatial and Temporal Nutrient Loading Dynamics in the Sprague River Basin, OR, Water Years 2002 – 2020. Technical Report prepared for the Klamath Tribes Natural Resources Department. 114 pp + Appendices. [https://doi.org/10.5281/zenodo.7377353](https://doi.org/10.5281/zenodo.7377353)
+
+**Walker, J.D.**, and J. Kann (2022). Water and Nutrient Balances of Upper Klamath Lake, Water Years 1992–2018. Technical Report prepared for the Klamath Tribes Natural Resources Department, Chiloquin, OR. 80 pp + Appendices. [https://doi.org/10.5281/zenodo.6607800](https://doi.org/10.5281/zenodo.6607800)
+
+**Walker, J.D.** and J. Kann (2020). Inflow/outflow phosphorus loading dynamics in Upper Klamath Lake, Oregon. Technical Report prepared for U.S Fish and Wildlife Service, Klamath Falls Fish and Wildlife Office. November 2020. [https://doi.org/10.5281/zenodo.6628410](https://doi.org/10.5281/zenodo.6628410)
+
+**Walker, J.D.** (2019). Spy Pond Stormwater Capture Feasibility Study. Prepared for Mystic River Watershed Association and Arlington, Belmont and Cambridge Stormwater Flood Board. October 2019. [https://doi.org/10.5281/zenodo.6524907](https://doi.org/10.5281/zenodo.6524907)
+
+**Walker, J.D.** (2018). A Method for Estimating the Daily and Total Herring Run Size on the Mystic River Using Video Counts. Prepared for Mystic River Watershed Association. May 1, 2018.
+
+**Walker, J.D.** (2018). A Comparison of Video and Volunteer Fish Count Data for Estimating the 2017 Herring Run Size on the Mystic River. Prepared for Mystic River Watershed Association. March 26, 2018.
+
+**Walker, J.D.** (2017). Development of Real-time Bacteria Exceedance Models for the Mystic River Recreational Flagging Project. Prepared for Mystic River Watershed Association. October 24, 2017.
+
+Durant, J.L., Jacobs, B., **Walker, J.D.**, Shanahan, P., and J.F. Knott (2017). Modeling N-Nitrosodimethylamine and Trichloroethylene Concentrations in the Wilmington, Massachusetts Water Supply System: 1974 to 2000. Prepared for Massachusetts Department of Public Health. July 6, 2017.
+
+**Walker, J.D.** (2016). Malden River: Exploratory Water Quality Data Prepared for the Mystic River Watershed Association by Jeffrey D. Walker PhD, Walker Environmental Research LLC. August 9, 2016.
+
+**Walker, J.D.**, Kann, J., and W.W. Walker (2015). Spatial and temporal nutrient loading dynamics in the Sprague River Basin, Oregon. Prepared by Aquatic Ecosystem Sciences, J. D. Walker, and W. W. Walker for the Klamath Tribes Natural Resources Department. 73 pp. + appendices.
+
+**Walker, J.D.**, and C. Brown (2015). An R Package and Web Application for Performing a Climate Stress Test. Prepared for U.S. Army Corps of Engineers. August 2015.
+
+Walker, W.W., and **J.D. Walker** (2014). Trends in Total Phosphorus Concentration and Flow at Monitoring Sites Within and Upstream of Everglades National Park. Prepared for U.S. Department of the Interior.
+
+Walker, W.W., and **J.D. Walker** (2013). Analysis of Fecal Coliform Data from Onondaga Lake Tributaries. Prepared for Upstate Freshwater Institute and Onondaga County Department of Water Environment Protection.
+
+Walker, W.W., **Walker, J.D.**, and J. Kann (2012). Evaluation of Water and Nutrient Balances for the Upper Klamath Lake Basin in Water Years 1992-2010. Technical Report to the Klamath Tribes Natural Resources Department, Chiloquin, OR. 50 pp + Appendices.
+
+Beresin, G., Crossley, L., Gareau, G., Jiang, Y., Olson, K., Sexton, A., **Walker, J.**, Wu, R., and Zhao, S. (2012). Stormwater Management in the Aberjona River. Report for the 2012 Water: Systems, Science + Society (WSSS) Practicum. Prepared for The Mystic River Watershed Association and Tufts University Department of Urban + Environmental Policy + Planning. May 2012.
+
+Walker, W.W., and **J.D. Walker** (2011). Trends in Onondaga Lake Nearshore Monitoring Data. Onondaga Lake Ambient Monitoring Program – 2011 Report. Prepared for Ecologic, LLC & Onondaga County Department of Water Environment Protection.
+
+:::
+
+## Publications
+
+::: {.publication-list}
+Goodling, P., Fair, J., Gupta, A., **Walker, J.**, Dubreuil, T., Hayden, M., and Letcher, B. (2025). Technical note: A low-cost approach to monitoring streamflow dynamics in small, headwater streams using timelapse imagery and a deep learning model. *Hydrology and Earth System Sciences*. 29, 6445–6460. doi: [10.5194/hess-29-6445-2025](https://doi.org/10.5194/hess-29-6445-2025).
+
+Shank B., Miller A.S., Solinger L., Asaro M.J., Sigourney D., Huamani A., Trego M.L., Franco C., Roberts J.J., **Walker J.D.**, Price A.L., Duffing Romero M.D., Coogan C., Goebel J., Cole T.V.N. and S.A. Hayes (2025). A decision support tool for assessing entanglement risk to protected species from fixed-gear fisheries with applications to North Atlantic right whales (Eubalaena glacialis) in the Northwest Atlantic. *Frontiers in Marine Science*. 12: 1549345. doi: [10.3389/fmars.2025.1549345](https://doi.org/10.3389/fmars.2025.1549345)
+
+Gupta, A., Chang, T., **Walker, J.**, and B. Letcher (2022). Towards Continuous Streamflow Monitoring with Time-Lapse Cameras and Deep Learning. In *ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)*. Association for Computing Machinery, New York, NY, USA, 353–363. doi: [10.1145/3530190.3534805](https://doi.org/10.1145/3530190.3534805)
+
+**Walker, J. D.**, Letcher, B. H., Rodgers, K. D., Muhlfeld, C. C., & D'Angelo, V. S. (2020). An Interactive Data Visualization Framework for Exploring Geospatial Environmental Datasets and Model Predictions. *Water*, 12(10), 2928. doi: [10.3390/w12102928](https://doi.org/10.3390/w12102928)
+
+Kann, J., and **J.D. Walker** (2020). Detecting the effect of water level fluctuations on water quality impacting endangered fish in a shallow, hypereutrophic lake using long-term monitoring data. *Hydrobiologia* 847, 1851–1872. doi: [10.1007/s10750-020-04215-z](https://doi.org/10.1007/s10750-020-04215-z)
+
+Letcher, B. H., **Walker, J. D.**, O'Donnell, M. J., Whiteley, A. R., Nislow, K. H., & Coombs, J. A. (2018). Three Visualization Approaches for Communicating and Exploring Passive Integrated Transponder Tag Data. *Fisheries*, 43(5), 241–248. doi: [10.1002/fsh.10067](https://doi.org/10.1002/fsh.10067)
+
+Asarian, J. E., and **J.D. Walker** (2016). Long-Term Trends in Streamflow and Precipitation in Northwest California and Southwest Oregon, 1953-2012. *J. of the American Water Resources Association*, 52(1): 241–261. doi: [10.1111/1752-1688.12381](https://doi.org/10.1111/1752-1688.12381)
+
+Whateley, S., **Walker, J.D.**, and C. Brown (2015). A web-based screening model for climate risk to water supply systems in the northeastern United States. *Environmental Modelling & Software*, 73: 64–75. doi: [10.1016/j.envsoft.2015.08.001](https://doi.org/10.1016/j.envsoft.2015.08.001)
+
+**Walker, J.D.**, and S.C. Chapra (2014). A client-side web application for interactive environmental simulation modeling. *Environmental Modelling & Software*, 55: 49–60. doi: [10.1016/j.envsoft.2014.01.023](https://doi.org/10.1016/j.envsoft.2014.01.023)
+
+Howarth, R.W., Hayn, M., Foreman, K., Marino, R., McGlathery, K., Berg, P., Giblin, A., and **J.D. Walker** (2014). Metabolism of a nitrogen-enriched coastal marine lagoon during the summertime. *Biogeochemistry* 118 (1-3): 1–20. doi: [10.1007/s10533-013-9901-x](https://doi.org/10.1007/s10533-013-9901-x)
+
+**Walker, J.D.**, Walter, M.T., Parlange, J.-Y., Rose, C.W., Tromp-van Meerveld, H.J., Gao, B., and A.M. Cohen (2007). Reduced raindrop-impact driven soil erosion by infiltration. *Journal of Hydrology* 342 (3-4): 331–335. doi: [10.1016/j.jhydrol.2007.06.003](https://doi.org/10.1016/j.jhydrol.2007.06.003)
+
+Parasiewicz, P. and **J.D. Walker** (2007). Comparison of MesoHABSIM with two micro-habitat models (PHABSIM and HARPHA). *River Research and Applications* 23 (8): 904–923. doi: [10.1002/rra.1043](https://doi.org/10.1002/rra.1043)
+
+:::
+
+## Conference Proceedings
+
+::: {.publication-list}
+Starosta, L.E., Westphal, K.S., and **J.D. Walker** (2011). Simple Management Tools to Reduce Water Pumping Based on Hydrologic Probabilities and Supply Shortage Risk Quantification. Conference Proceedings of the American Society of Civil Engineers (ASCE) Environment and Water Resources Institute (EWRI) World Environment and Water Resources Congress 2011: Bearing Knowledge for Sustainability. Palm Springs, CA. May 22, 2011.
+
+**Walker, J.D.**, Rees, P.S. and T.K. Walsh (2009). The Importance of Instream Hydraulics in River Water Quality Models: Lessons from the Blackstone River. Oral presentation and publication in the Conference Proceedings of the American Society of Civil Engineers (ASCE) Environment and Water Resources Institute (EWRI) World Environment and Water Resources Congress 2009: Great Rivers. Kansas City, MO. May 19, 2009.
+
+Lefkowitz, J., Westphal, K., **Walker, J.**, and G. Mercer (2009). The Economic and Environmental Significance of Nonpoint Source Abatement in Large Watersheds. Conference Proceedings of the ASCE-EWRI World Environment and Water Resources Congress 2009: Great Rivers. Kansas City, MO. May 19, 2009.
+
+:::
+
+## Presentations
+
+::: {.publication-list}
+**Walker, J.D.**, Knight, R., and B. Letcher (2019). An Interactive Data Visualization Tool for Exploring the Causes and Extent of Streamflow Alteration across the Lower Mississippi and Gulf Coast Region. Mississippi Water Resources Conference: Jackson, MS. April 3, 2019.
+
+**Walker, J.D.**, and B. Letcher (2016). A Web-based System for Managing, Analyzing, and Visualizing Stream Temperature Data across New England. Maine Sustainability and Water Conference. Augusta, ME. March 29, 2016.
+
+Kaczor, K., and **J.D. Walker** (2016). Informing Beach Advisories: Using Data Visualization Techniques to Explore and Better Understand the Maine Healthy Beaches Dataset. Maine Sustainability and Water Conference. Augusta, ME. March 29, 2016.
+
+**Walker, J.D.** (2014). Interactive and Web-based Approaches to Environmental Modeling. 2014 UCOWR-NIWR-CUAHSI Conference. Medford, MA. March 28, 2014.
+
+Kennedy, L., Herron, P., and **J. Walker** (2014). Collaborative Planning for Green Infrastructure in the Mystic River Watershed. 2014 NEWEA Annual Conference. Boston, MA.
+
+**Walker, J.**, Beresin, G., Crossley, L., Jiang, Y., Olson, K., Zhao, S., Gareau, G., Sexton, A., Wu, R., Russell, R., and Vogel, R. (2012). A GIS-based Approach to Identify Priority Locations for Stormwater Best Management Practices in the Aberjona River Watershed. The 2012 WSSS Interdisciplinary Water Symposium, The Glass Half Full: Valuing Water in the 21st Century. *Awarded First Prize in Student Poster Competition.*
+
+:::
+
+## Professional Activities
+
+```{=html}
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-sub">Maine Thermal Infrared (TIR) Imagery Data Management Workgroup</span><span class="cv-entry-date">2026 - present</span></div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-sub">Maine Water Temperature Working Group, Coordinator</span><span class="cv-entry-date">2018 - present</span></div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-sub">Maine State Wildlife Action Plan (SWAP), Freshwater Aquatic Habitats Subcommittee</span><span class="cv-entry-date">2025</span></div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-sub">Trout Unlimited, Merrymeeting Bay Chapter — Technical Advisor</span><span class="cv-entry-date">2023 – 2024</span></div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-sub">Gulf of Maine Research Institute — Technical Advisory Committee, EdTech, LabVenture Program</span><span class="cv-entry-date">2017 – 2018</span></div>
+</div>
+<div class="cv-entry">
+  <div class="cv-entry-head"><span class="cv-entry-sub">Maine Healthy Beaches — Technical Advisory Committee, Subcommittee on New U.S. EPA Beach Action Value (BAV) Recommendations</span><span class="cv-entry-date">2015 – 2016</span></div>
+</div>
+```
+
+## Clients
+
+```{=html}
+<ul class="cv-client-list">
+  <li><span class="cv-client-date">2026 – present</span> Conservation Science Partners</li>
+  <li><span class="cv-client-date">2026 – present</span> NH Dept. of Environmental Services (Fuss & O'Neill)</li>
+  <li><span class="cv-client-date">2025 – present</span> Atlantic Salmon Federation</li>
+  <li><span class="cv-client-date">2025 – present</span> MT Fish, Wildlife & Parks and University of Montana</li>
+  <li><span class="cv-client-date">2024 – present</span> National Park Service, South Florida Natural Resources Center</li>
+  <li><span class="cv-client-date">2024 – present</span> Penobscot Indian Nation</li>
+  <li><span class="cv-client-date">2024 – present</span> U.S. Geological Survey, Northern Rocky Mountain Science Center</li>
+  <li><span class="cv-client-date">2021 – present</span> University of Alaska, Anchorage</li>
+  <li><span class="cv-client-date">2021 – present</span> U.S. Geological Survey, Lower Mississippi-Gulf Water Science Center</li>
+  <li><span class="cv-client-date">2019 – present</span> NOAA Fisheries, Northeast Fisheries Science Center (TechGlobal, IBSS)</li>
+  <li><span class="cv-client-date">2018 – present</span> U.S. Geological Survey, Eastern Ecological Science Center</li>
+  <li><span class="cv-client-date">2014 – present</span> Mystic River Watershed Association</li>
+  <li><span class="cv-client-date">2010 – present</span> U.S. Dept of Interior, Bureau of Indian Affairs (Aquatic Ecosystem Sciences, LLC)</li>
+  <li><span class="cv-client-date">2026</span> Lake Winnipesaukee Alliance (FB Environmental)</li>
+  <li><span class="cv-client-date">2022 – 2026</span> U.S. Environmental Protection Agency, Region 1 (CEI)</li>
+  <li><span class="cv-client-date">2024 – 2025</span> U.S. Environmental Protection Agency, Office of Research and Development</li>
+  <li><span class="cv-client-date">2024</span> Tova</li>
+  <li><span class="cv-client-date">2023 – 2024</span> National Fish and Wildlife Federation (Aquatic Ecosystem Sciences, LLC)</li>
+  <li><span class="cv-client-date">2023</span> Piscataqua Region Estuaries Partnership (FB Environmental)</li>
+  <li><span class="cv-client-date">2023</span> MA Div. of Fish and Wildlife</li>
+  <li><span class="cv-client-date">2021 – 2022</span> MassBays (CEI, Hodge Water Resources)</li>
+  <li><span class="cv-client-date">2020 – 2022</span> Klamath Tribes (Aquatic Ecosystem Sciences, LLC)</li>
+  <li><span class="cv-client-date">2020 – 2021</span> National Geographic Society (Conservation Science Partners)</li>
+  <li><span class="cv-client-date">2020 – 2021</span> U.S. Dept of Agriculture, Forest Service</li>
+  <li><span class="cv-client-date">2019 – 2021</span> U.S. Fish and Wildlife Service (Aquatic Ecosystem Sciences, LLC)</li>
+  <li><span class="cv-client-date">2019 – 2021</span> U.S. Environmental Protection Agency, Region 1 (Horsley Witten Group, FB Environmental)</li>
+  <li><span class="cv-client-date">2018 – 2019</span> UMass Amherst, Dept of Environmental Conservation</li>
+  <li><span class="cv-client-date">2018</span> Alberta Environment and Parks</li>
+  <li><span class="cv-client-date">2017 – 2019</span> U.S. Environmental Protection Agency, Region 1 (ERG Inc)</li>
+  <li><span class="cv-client-date">2016 – 2017</span> U.S. Geological Survey, Northern Rocky Mountain Science Center</li>
+  <li><span class="cv-client-date">2016 – 2017</span> MA Dept. of Public Health (John Durant, PE, PhD)</li>
+  <li><span class="cv-client-date">2016</span> U.S. Fish and Wildlife Service (North Atlantic Salmon Federation)</li>
+  <li><span class="cv-client-date">2016</span> U.S. Geological Survey, Conte Anadromous Fish Lab and University of Massachusetts, Amherst (Hodge.WaterResources, LLC)</li>
+  <li><span class="cv-client-date">2014 – 2016</span> National Marine Fisheries Service (Kier Associates)</li>
+  <li><span class="cv-client-date">2012 – 2016</span> U.S Dept of Interior and U.S. Environmental Protection Agency (William W. Walker, Jr, PhD)</li>
+  <li><span class="cv-client-date">2015</span> CDM Smith, Inc</li>
+  <li><span class="cv-client-date">2015</span> Columbia Habitat Monitoring Program (South Fork Research, Inc)</li>
+  <li><span class="cv-client-date">2014 – 2015</span> Klamath Tribes Natural Resources Dept. (Aquatic Ecosystem Sciences, LLC)</li>
+  <li><span class="cv-client-date">2011 – 2015</span> Onondaga County Dept of Environmental Protection (William W. Walker, Jr, PhD)</li>
+  <li><span class="cv-client-date">2014</span> National Oceanic and Atmospheric Administration (Riverbend Sciences and Kier Associates)</li>
+</ul>
+<p class="cv-note"><em>Names in parentheses denote primary contractor.</em></p>
+```

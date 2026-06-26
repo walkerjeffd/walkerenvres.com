@@ -1,0 +1,20 @@
+---
+title: "USGS TroutCast"
+description: "Web-based dashboard showing real-time predictions of low-flow and high-temperature fishery closures and long-term population forecasts of native salmonid species in Montana."
+date: 2026-02-09
+categories: [Data Science]
+image: featured.jpg
+featured: true
+---
+
+::: {.project-meta}
+**Client:** US Geological Survey  
+**Period:** 2026-present
+
+[{{< fa door-open >}} Website](https://www.usgs.gov/apps/troutcast/)
+:::
+
+![USGS TroutCast](featured.jpg)
+
+USGS TroutCast is a web-based dashboard showing real-time predictions of low-flow and high-temperature fishery closures and long-term population forecasts of native salmonid species in Montana. The system is driven by an automated cloud-based model pipeline built in R.
+

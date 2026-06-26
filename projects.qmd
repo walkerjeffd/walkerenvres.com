@@ -1,0 +1,13 @@
+---
+title: "Projects"
+page-layout: full
+toc: false
+sidebar: false
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [image, title, description, categories]
+  image-height: 180px
+---

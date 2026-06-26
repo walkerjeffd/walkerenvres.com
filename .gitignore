@@ -1,0 +1,9 @@
+# quarto
+.quarto/
+
+
+/.quarto/
+**/*.quarto_ipynb
+
+# built
+_site/

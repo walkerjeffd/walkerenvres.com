@@ -1,0 +1,21 @@
+---
+title: "EcoSHEDS Water Temperature Database"
+description: "A crowd-sourced database for exploring, managing, and downloading continuous stream temperature data across the northeastern U.S., currently being rebuilt from scratch."
+date: 2026-06-12
+categories: [Data Science, Database, EcoSHEDS]
+image: featured.png
+draft: true
+---
+
+::: {.project-meta}
+**Client:** US Geological Survey, Penobscot Indian Nation  
+**Period:** 2014-present
+
+[{{< fa door-open >}} Website](https://db.ecosheds.org)
+:::
+
+The [EcoSHEDS Water Temperature Database](https://db.ecosheds.org) is a crowd-sourced database for exploring, managing, and downloading continuous stream temperature data across the northeastern U.S. The database contains more than 200 million measurements from over 10,000 stations contributed by federal, state, and tribal agencies, universities, and non-profit organizations. It serves as the primary data source for the [EcoSHEDS Northeast Stream Temperature Model](https://ecosheds.org/models/stream-temperature/latest/), which provides regional predictions of daily stream temperatures for evaluating thermal habitat and climate change impacts.
+
+The database is currently being rebuilt from scratch through an Exchange Network Grant from the USEPA in partnership with the [Penobscot Indian Nation](https://www.penobscotnation.org/). The new system will feature a modern web interface for discovering, visualizing, and downloading data along with improved tools for uploading, managing, and performing quality control of contributed datasets.
+
+This project is part of [EcoSHEDS](../usgs-ecosheds/index.qmd), a collection of databases, models, and data visualization tools designed to improve our understanding of stream ecosystems.

@@ -1,0 +1,8 @@
+/* css styles */
+.dot {
+  fill: white;
+}
+.connection {
+  stroke: rgba(255, 255, 255, 0.3);
+  stroke-width: 0.5;
+}

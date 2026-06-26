@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Walker Environmental Research"
+  favicon: assets/images/favicon.png
+  navbar:
+    logo: assets/images/logo.png
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume/CV
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    background: '#0c2d42'
+    left: "&copy; 2026 Walker Environmental Research, LLC"
+    right:
+      - icon: github
+        href: https://github.com/walkerjeffd
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jeffrey-d-walker/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:jeff@walkerenvres.com
+        aria-label: Email
+
+format:
+  html:
+    theme: [default, theme.scss]
+    css: styles.css
+    toc: true

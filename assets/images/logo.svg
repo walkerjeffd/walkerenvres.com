@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="3171.4285714285716" height="1196.455619578979" viewBox="0 0 3171.4285714285716 1196.455619578979" style="width: 100%; height: 100%;">
+  <g transform="scale(4) translate(10, 10)">
+    <g featureKey="symbolFeature-0"
+      transform="matrix(0.7552543263034672,0,0,0.7552543263034672,136.99430817467652,-10.1204076843598)"
+      fill="#1288cc">
+      <!-- Main waves path -->
+      <path d="
+        M10.6,28.9v-7.6c17.4-10,30.8-8,43.8-4.4c12.1,3.4,22.9,9.5,36-3.5v15.7c0,0-13.6,11-38.2-1.9C31.8,16.5,10.6,28.9,10.6,28.9z
+        M53.3,38.2c24.3,6.8,37.2-3.5,37.2-3.5v19.9c0,0-13.6,10.1-39.1-0.6c-24.7-10.3-40.7,3.4-40.7,3.4V46.8C10.6,46.8,29.8,31.6,53.3,38.2z
+        M56.1,33.6c-24.3-7.1-45.5,7.9-45.5,7.9v-8C10.6,33.5,34.6,18.1,56.1,33.6z
+        M90.5,60.1v29.2H10.6V62.9c0,0,15.9-14.9,45-2.6C77.3,69.5,90.5,60.1,90.5,60.1z">
+      </path>
+
+      <!-- Connection lines container -->
+      <g class="connections"></g>
+
+      <!-- Dots -->
+      <circle class="dot" cx="75.3" cy="27.4" r="3"></circle>
+      <circle class="dot" cx="37.5" cy="43.6" r="2.1"></circle>
+      <circle class="dot" cx="64.2" cy="48.7" r="3.8"></circle>
+      <circle class="dot" cx="72.9" cy="46.6" r="2"></circle>
+      <circle class="dot" cx="27.4" cy="70.7" r="5.4"></circle>
+      <circle class="dot" cx="37.7" cy="76.5" r="2.4"></circle>
+      <circle class="dot" cx="75.1" cy="78.3" r="3.4"></circle>
+    </g>
+  </g>
+</svg>
