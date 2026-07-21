@@ -221,8 +221,14 @@ h2 {
 }
 
 @media (max-width: 576px) {
+  // hide the logo image so the full site name fits without truncating;
+  // the wave logo still appears in the homepage hero
+  .navbar .navbar-brand-logo {
+    display: none;
+  }
+
   .navbar .navbar-brand {
-    font-size: 1.02rem;
+    font-size: 0.92rem;
   }
 
   .hero {
@@ -456,9 +462,31 @@ h2 {
 }
 
 main img.img-fluid,
-main p > img {
+main p > img,
+main video {
   border-radius: 10px;
   box-shadow: 0 4px 18px rgba($navy, 0.1);
+}
+
+// ---------------------------------------------------------------- about page
+
+// when the trestles layout collapses to a single column, show the social
+// links as a compact wrapping row instead of tall stacked full-width buttons
+@media (max-width: 992px) {
+  div.quarto-about-trestles .about-entity .about-links {
+    flex-direction: row !important;
+    flex-wrap: wrap;
+    justify-content: center !important;
+    gap: 0.5rem;
+  }
+
+  div.quarto-about-trestles .about-entity .about-link {
+    flex: 0 0 auto;
+    width: auto;
+    padding: 0.4em 1em;
+    border-radius: 999px;
+    font-size: 0.9rem;
+  }
 }
 
 // ---------------------------------------------------------------- publications & resume

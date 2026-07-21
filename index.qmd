@@ -24,7 +24,7 @@ listing:
 [Environmental Data Science & Engineering]{.hero-subtitle}
 
 ::: {.hero-tagline}
-Improving how we manage, share, and understand environmental data.
+Finding new ways to manage, share, and understand environmental data.
 :::
 
 ::: {.hero-actions}
