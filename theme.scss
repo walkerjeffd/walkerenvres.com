@@ -161,11 +161,16 @@ h2 {
 }
 
 .hero-actions {
-  display: flex;
-  gap: 0.85rem;
-  justify-content: center;
-  flex-wrap: wrap;
   margin-bottom: 2rem;
+
+  // pandoc wraps the buttons in a <p>, so that's the real flex container
+  p {
+    display: flex;
+    gap: 0.85rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0;
+  }
 
   .btn {
     padding: 0.65rem 1.6rem;
@@ -198,10 +203,15 @@ h2 {
 }
 
 .hero-social {
-  display: flex;
-  gap: 0.4rem;
-  justify-content: center;
-  flex-wrap: wrap;
+  // pandoc wraps the links in a <p>, so that's the real flex container;
+  // flex items can't split mid-pill when wrapping to a new line
+  p {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0;
+  }
 
   a {
     color: rgba(255, 255, 255, 0.85);
@@ -211,6 +221,7 @@ h2 {
     border: 1px solid rgba(255, 255, 255, 0.25);
     border-radius: 999px;
     text-decoration: none;
+    white-space: nowrap;
 
     &:hover {
       color: #fff;
@@ -227,8 +238,20 @@ h2 {
     display: none;
   }
 
+  // quarto caps the brand container assuming wider margins than we use
+  .navbar .navbar-brand-container {
+    max-width: calc(100% - 95px);
+  }
+
+  // scale with viewport so the full name fits down to ~360px screens;
+  // the calc accounts for the ~153px of toggler/search/padding around it
   .navbar .navbar-brand {
-    font-size: 0.92rem;
+    font-size: clamp(0.72rem, calc(6.4vw - 10.5px), 0.95rem);
+    margin-right: 0;
+  }
+
+  .navbar #quarto-search {
+    margin-left: 0.5rem;
   }
 
   .hero {
