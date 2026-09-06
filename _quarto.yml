@@ -36,3 +36,4 @@ format:
     theme: [default, theme.scss]
     css: styles.css
     toc: true
+    include-in-header: fathom.html
