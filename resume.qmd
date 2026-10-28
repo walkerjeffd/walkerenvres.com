@@ -85,6 +85,7 @@ See the [Projects](projects.qmd) page for detailed descriptions.
 <ul class="cv-link-list">
   <li><a href="https://passiveacoustics.fisheries.noaa.gov/">NOAA Fisheries Passive Acoustics</a></li>
   <li><a href="https://passiveacoustics.fisheries.noaa.gov/pacm">NOAA Passive Acoustic Cetaceans Map</a></li>
+  <li><a href="https://passiveacoustics.fisheries.noaa.gov/pars">NOAA Passive Acoustic Reporting System</a></li>
   <li><a href="https://usgs.gov/apps/troutcast">USGS TroutCast</a></li>
   <li><a href="https://www.usgs.gov/apps/ecosheds/">USGS EcoSHEDS</a></li>
   <li><a href="https://www.usgs.gov/apps/ecosheds/fpe/">USGS Flow Photo Explorer</a></li>
@@ -147,9 +148,15 @@ Walker, W.W., and **J.D. Walker** (2011). Trends in Onondaga Lake Nearshore Moni
 ## Publications
 
 ::: {.publication-list}
-Goodling, P., Fair, J., Gupta, A., **Walker, J.**, Dubreuil, T., Hayden, M., and Letcher, B. (2025). Technical note: A low-cost approach to monitoring streamflow dynamics in small, headwater streams using timelapse imagery and a deep learning model. *Hydrology and Earth System Sciences*. 29, 6445–6460. doi: [10.5194/hess-29-6445-2025](https://doi.org/10.5194/hess-29-6445-2025).
+Fuller, M. R., Nislow, K. H., **Walker, J. D.**, Fair, J. H., and B.H. Letcher (2026). Exploring, restoring, and forecasting stream temperature resilience across river networks. Freshwater Science, 0. doi: [10.1086/744005](https://doi.org/10.1086/744005)
+
+Martin, J.T., Pederson, G.T., Cline, T., Lahr, A., **Walker, J.D.**, Schmetterling, D., Bell, D., and C.C. Muhlfeld (2026). An integrated drought early warning system to support coldwater fisheries management. Fisheries, vuag035. doi: [10.1093/fshmag/vuag035](https://doi.org/10.1093/fshmag/vuag035)
 
 Shank B., Miller A.S., Solinger L., Asaro M.J., Sigourney D., Huamani A., Trego M.L., Franco C., Roberts J.J., **Walker J.D.**, Price A.L., Duffing Romero M.D., Coogan C., Goebel J., Cole T.V.N. and S.A. Hayes (2025). A decision support tool for assessing entanglement risk to protected species from fixed-gear fisheries with applications to North Atlantic right whales (Eubalaena glacialis) in the Northwest Atlantic. *Frontiers in Marine Science*. 12: 1549345. doi: [10.3389/fmars.2025.1549345](https://doi.org/10.3389/fmars.2025.1549345)
+
+Goodling, P., Fair, J., Gupta, A., **Walker, J.**, Dubreuil, T., Hayden, M., and Letcher, B. (2025). Technical note: A low-cost approach to monitoring streamflow dynamics in small, headwater streams using timelapse imagery and a deep learning model. *Hydrology and Earth System Sciences*. 29, 6445–6460. doi: [10.5194/hess-29-6445-2025](https://doi.org/10.5194/hess-29-6445-2025).
+
+Carlson, D., Miksis-Olds, J., Lowell, K., Davis, G., and **J. Walker** (2025). Modeling North Atlantic right whale (Eubalaena glacialis) distributions in the Northwest Atlantic using visual and acoustic data. Journal of the Acoustical Society of America, 158 (4_Supplement), A96. doi: [10.1121/10.0040248](https://doi.org/10.1121/10.0040248)
 
 Gupta, A., Chang, T., **Walker, J.**, and B. Letcher (2022). Towards Continuous Streamflow Monitoring with Time-Lapse Cameras and Deep Learning. In *ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '22)*. Association for Computing Machinery, New York, NY, USA, 353–363. doi: [10.1145/3530190.3534805](https://doi.org/10.1145/3530190.3534805)
 
